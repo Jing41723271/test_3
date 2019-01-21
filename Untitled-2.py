@@ -14,4 +14,3 @@ sort(l)
 
 
 print(l)
-
