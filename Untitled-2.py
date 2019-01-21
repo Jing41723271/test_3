@@ -15,6 +15,3 @@ sort(l)
 
 print(l)
 
-
-
-
