@@ -1,6 +1,5 @@
 import numpy 
 
-
 i=0
 l=[0,10,32,55,21,38,89,10000,273]
 def sort(l):
@@ -14,4 +13,6 @@ sort(l)
 
 
 print(l)
+
+
 
