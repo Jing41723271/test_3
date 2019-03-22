@@ -10,9 +10,4 @@ def sort(l):
                 l[i]=l[j]
                 l[j]=t
 sort(l)
-
-
 print(l)
-
-
-
